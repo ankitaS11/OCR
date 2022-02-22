@@ -1,6 +1,4 @@
 # OCR Text Recognition  
-      By-
-        Ankita Sharma 
        
 ### INTRODUCTION
 
